@@ -1,4 +1,4 @@
-# Flight Price Monitor
+# Flight Information Scraper
 
 A Python script that monitors flight prices using a RapidAPI flight search service. This project leverages the Skyscanner APIs on RapidAPI to fetch flight data. The script dynamically constructs the API URL from environment variables, retrieves the data, and displays the top three cheapest flights with their airline names.
 
